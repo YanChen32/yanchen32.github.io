@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **2016.09 - 2022.03**, Ph.D., State Key Laboratory for Strength and Vibration of Mechanical Structures, Multiscale Mechanics and Medical Science Lab, Department of Engineering Mechanics, School of Aerospace, Xi'an Jiaotong University, Xian, China.
+* **2020.01 - 2021.03**, Visiting scholar, Earth and Environmental Engineering Department, Columbia University, Xian, China.
+* **2012.09 - 2016.06**, Bachelor, Aircraft Design and Engineering, Xi'an, Shaanxi, China.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep 2022: Assistant Prof
+  * Department of Engineering Mechanics
+  * Xi'an Jiaotong University
+  * Xi'an, China
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning (Pytorch, Python...)
+* Academic Writing (Office, Visio, Origin, Endnote)
+* Multiscale Modeling
+  * DFT (VASP, Quantum ESPRESSO, CASTEP)
+  * MD (Lammps, Gromacs)
+  * FEM (Abaqus, LS-Dyna, COMSOL, FEniCS)
+  * PF (Phase field crystal, Phase field fracture)
 
 Publications
 ======
@@ -59,6 +50,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
