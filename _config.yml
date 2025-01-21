@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "yanchen.png"
   name             : "Yan Chen"
-  pronouns         : "he/his"  
+  pronouns         : #"he/his"  
   bio              : "Assistant Professor at Department of Engineering Mechanics, School of Aerospace, XJTU. Focusing on Micro/Nano-Mechanics, Multiscale modeling, AI for Science, Materials Design"
   location         : "Xi'an, China"
   employer         : "Xi'an Jiaotong University"
