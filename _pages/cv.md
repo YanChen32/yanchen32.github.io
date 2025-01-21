@@ -17,10 +17,7 @@ Education
 
 Work experience
 ======
-* Sep 2022: Assistant Prof
-  * Department of Engineering Mechanics
-  * Xi'an Jiaotong University
-  * Xi'an, China
+* **2022.09 - Now**: Assistant Prof., Department of Engineering Mechanics, Xi'an Jiaotong University, Xi'an, China
 
 Skills
 ======
