@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yan Chen / Site Title"
+title                    : "Yan Chen / Homepage"
 title_separator          : "-"
 name                     : &name "Yan Chen"
 description              : &description "Assistant Professor at Department of Engineering Mechanics, School of Aerospace, XJTU. Focusing on Micro/Nano-Mechanics, Multiscale modeling, AI for Science, Materials Design."
-url                      : https://yanchen32.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://yanchen32.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YanChen32/yanchen32.github.io"
 
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "yanchen.png"
   name             : "Yan Chen"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : "Assistant Professor at Department of Engineering Mechanics, School of Aerospace, XJTU. Focusing on Micro/Nano-Mechanics, Multiscale modeling, AI for Science, Materials Design"
   location         : "Xi'an, China"
   employer         : "Xi'an Jiaotong University"
