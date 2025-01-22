@@ -7,6 +7,75 @@ author_profile: true
 
 {% include base_path %}
 
+<div class="research-overview">
+    <h2>Research Overview</h2>
+    
+    <div class="introduction">
+        <p>In the era of advancing aerospace technology and extreme service environments, the integration of materials science, structural mechanics, and artificial intelligence has become increasingly crucial. Inspired by the transformative potential demonstrated by AI, particularly highlighted by the <a href="https://www.nobelprize.org/prizes/chemistry/2024/summary/" target="_blank">2024 Nobel Prize in Chemistry</a>'s recognition of quantum dots and the revolutionary impact of AI in scientific discovery, my research focuses on developing next-generation materials and structures for aerospace applications through multi-scale mechanical analysis and AI-driven design approaches.</p>
+    </div>
+
+    <div class="research-areas">
+        <p>My research spans five interconnected frontiers:</p>
+        
+        <ol>
+            <li><strong>Advanced continuum mechanics modeling of micro/nano composites</strong>, where we develop sophisticated theoretical frameworks to bridge quantum-classical transitions in material behavior, crucial for predicting performance in extreme environments;</li>
+            
+            <li><strong>Environmental effects on low-dimensional materials</strong>, investigating quantum-influenced conformational mechanics and entropic elasticity, essential for space-based applications;</li>
+            
+            <li><strong>Bio-inspired design of aerospace materials</strong>, where we translate nature's 3.8 billion years of evolutionary optimization into cutting-edge solutions for enhanced fracture and fatigue resistance;</li>
+            
+            <li><strong>AI-driven materials discovery and design platforms</strong>, integrating physics-informed neural networks with quantum mechanics principles to accelerate the development of novel aerospace materials;</li>
+            
+            <li><strong>Low-dimensional materials engineering</strong>, exploring quantum phenomena and topological properties for next-generation aerospace applications.</li>
+        </ol>
+    </div>
+
+    <div class="research-impact">
+        <p>By synergistically combining first-principles multiscale analysis with state-of-the-art machine learning approaches, we are pioneering new pathways in "AI for Science" to address critical challenges in aerospace materials and structures. Our research aims to revolutionize the development of materials-structure-function integrated systems capable of withstanding extreme conditions while maintaining optimal performance. This work has been published in prestigious journals including <a href="https://www.nature.com/ncomms/" target="_blank">Nature Communications</a>, <a href="https://www.sciencedirect.com/journal/journal-of-the-mechanics-and-physics-of-solids" target="_blank">Journal of the Mechanics and Physics of Solids</a>, and <a href="https://www.sciencedirect.com/journal/engineering-fracture-mechanics" target="_blank">Engineering Fracture Mechanics</a>.</p>
+    </div>
+</div>
+
 {% for post in site.researches reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<style>
+.research-overview {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+.research-overview h2 {
+    color: #2c3e50;
+    margin-bottom: 30px;
+}
+
+.introduction, .research-areas, .research-impact {
+    margin-bottom: 30px;
+}
+
+.research-areas ol {
+    padding-left: 20px;
+}
+
+.research-areas li {
+    margin-bottom: 15px;
+}
+
+.research-overview a {
+    color: #2980b9;
+    text-decoration: none;
+    border-bottom: 1px dotted #2980b9;
+}
+
+.research-overview a:hover {
+    color: #3498db;
+    border-bottom: 1px solid #3498db;
+}
+
+strong {
+    color: #34495e;
+}
+</style>
