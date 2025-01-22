@@ -6,7 +6,7 @@ permalink: /publication/2025-paper-JMPS-huichao
 excerpt: 'This paper proposes a continuum mechanics framework for extremely anisotropic 2D materials (CM2D) by considering monolayer bending and surface layer effects.'
 date: 2025-01-01
 venue: 'Journal of the Mechanics and Physics of Solids'
-paperurl: 'https://github.com/YanChen32/yanchen32.github.io/files/papers/2025-01-JMPS-Homogenization of two-dimensional materials integrating monolayer bending and surface layer effects.pdf'
+paperurl: 'https://github.com/YanChen32/yanchen32.github.io/blob/master/files/papers/2025-01-JMPS-Homogenization%20of%20two-dimensional%20materials%20integrating%20monolayer%20bending%20and%20surface%20layer%20effects.pdf'
 citation: 'Liu H, Chen Y, Wang W, et al. Homogenization of two-dimensional materials integrating monolayer bending and surface layer effects[J]. Journal of the Mechanics and Physics of Solids, 2025, 194: 105911.'
 ---
 
