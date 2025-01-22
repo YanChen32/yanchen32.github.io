@@ -1,7 +1,9 @@
 ---
-title: "Continuum Mechanics Modeling"
+title: "📚📐Continuum Mechanics Modeling"
 permalink: /researches/ContinuumMechanicsModeling
 ---
+
+We develop theoretical frameworks in continuum mechanics to characterize the mechanical behavior of micro/nano composites, with explicit consideration of their microstructural features. Our models bridge multiple scales and have successfully captured various unique phenomena, including buckling in van der Waals materials, surface effects in two-dimensional materials, and complex deformation mechanisms in biomimetic and graphene-based layered composites. These analytical approaches provide new insights into the structure-property relationships of advanced materials at microscopic scales.
 
 ## 📚📐 Continuum mechanics modeling
 <br/><img src='/images/projects/ContinuumMechanics.png'>
