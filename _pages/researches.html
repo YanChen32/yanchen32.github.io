@@ -40,12 +40,11 @@ author_profile: true
 {% endfor %}
 
 
-<div class="research-grants">
-    {% capture projects_content %}
-        {% include_relative _proj.md %}
-    {% endcapture %}
-    {{ projects_content | markdownify }}
-</div>
+{% for post in site.researches %}
+  {% if post.title == "Research Grants" %}
+    {{ post.content }}
+  {% endif %}
+{% endfor %}
 
 
 <style>
@@ -88,73 +87,6 @@ strong {
     color: #34495e;
 }
 
-.research-grants {
-    max-width: 900px;
-    margin: 40px auto;
-    padding: 20px;
-}
-
-.paper-box {
-    background: #fff;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    margin-bottom: 30px;
-}
-
-.paper-box-text {
-    line-height: 1.6;
-}
-
-.paper-box-text h1 {
-    color: #2c3e50;
-    margin-bottom: 30px;
-}
-
-.paper-box-text h3 {
-    color: #34495e;
-    margin: 20px 0;
-}
-
-.paper-box-text ul {
-    list-style-type: none;
-    padding-left: 0;
-}
-
-.paper-box-text li {
-    margin-bottom: 10px;
-    padding-left: 20px;
-    position: relative;
-}
-
-.paper-box-text li:before {
-    content: "•";
-    position: absolute;
-    left: 0;
-    color: #2980b9;
-}
-
-/* 配色方案 */
-.paper-box-text [style*="color: #E74C3C"] {
-    font-weight: bold;
-}
-
-.paper-box-text [style*="color: #3498DB"] {
-    font-weight: bold;
-}
-
-.paper-box-text [style*="color: #2ECC71"] {
-    font-weight: bold;
-}
-
-/* Principal Investigator 标签样式 */
-.paper-box-text [style*="background-color: #F1C40F"] {
-    display: inline-block;
-    padding: 2px 8px;
-    border-radius: 3px;
-    font-weight: bold;
-    color: #000;
-}
 </style>
 
 
