@@ -3,7 +3,7 @@ title: "🌡️ Entropic Elasticity and Conformational Mechanics"
 permalink: /researches/EntropicElasticity
 ---
 
-<br/><img src='/images/projects/EntropicElasticity.png' width="90%" style="max-width: 800px;">
+<br/><img src='/images/projects/ConformationalMechanics.png' width="90%" style="max-width: 800px;">
 
 We investigate how environmental factors influence the entropic elasticity and conformational behavior of low-dimensional materials, with a particular focus on two-dimensional macromolecules and bio-inspired structures. Our research reveals fundamental insights into the temperature-dependent mechanical properties, conformational transitions, and structure-property relationships in these systems. Through advanced computational and theoretical approaches, we explore the complex energy landscapes and mechanical responses that emerge from environmental interactions. These studies provide crucial understanding for designing materials with enhanced performance under various conditions. 
 
