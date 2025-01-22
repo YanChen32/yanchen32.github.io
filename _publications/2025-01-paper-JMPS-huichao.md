@@ -1,0 +1,13 @@
+---
+title: "Homogenization of two-dimensional materials integrating monolayer bending and surface layer effects"
+collection: publications
+category: papers
+permalink: /publication/2025-paper-JMPS-huichao
+excerpt: 'This paper proposes a continuum mechanics framework for extremely anisotropic 2D materials (CM2D) by considering monolayer bending and surface layer effects.'
+date: 2025-01-01
+venue: 'Journal of the Mechanics and Physics of Solids'
+paperurl: ''
+citation: 'Liu H, Chen Y, Wang W, et al. Homogenization of two-dimensional materials integrating monolayer bending and surface layer effects[J]. Journal of the Mechanics and Physics of Solids, 2025, 194: 105911.'
+---
+
+Two-dimensional (2D) materials hold great promise for future electronic, optical, thermal devices and beyond, underpinning which the predictability, stability and reliability of their mechanical behaviors are the fundamental prerequisites. Despite this, due to the layered crystal lattice structure, extremely high anisotropy and the independent deformation mechanism of out-of-plane bending, the proper homogenization for such materials still faces challenge. That is because the monolayer bending is of independent deformation mechanism distinct from the traditional bulk deformation which thereby brings couple stress to the bulk 2D materials, while the different interlayer constraints of bulk and surface layers bring surface layer effect. In this paper, by considering the two effects, a continuum mechanics framework for extremely anisotropic 2D materials (CM2D) is proposed, without necessities of ad hoc experiments for the unclassical parameters. Under the framework of the CM2D, beam-like deformation, plate-like deformation and indentation of 2D materials are studied to showcase its ability and applicability. An analytical expression of the effective bending rigidity is derived, which can be characterized by several dimensionless parameters. It is found that the overall bending deformations of 2D materials are controlled by the competition between the intralayer deformation mode and the interlayer shear deformation mode. Besides, the size-dependent modulus is also identified on the indentation of 2D materials at the pure elastic deformation regime, distinct from the size effect caused by plasticity. In addition, we discussed the effects of monolayer bending and surface layer on the mechanical behaviors of 2D materials. Our work not only provides guidance for the studies and applications of 2D materials, but also serves as a good example with well-defined physical meanings for the strain gradient, high-order moduli and couple stress in high-order continuum mechanics theories.
