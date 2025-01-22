@@ -1,11 +1,13 @@
 ---
-title: "Low-dimensional Materials"
+title: "🔬 Low-dimensional Materials"
 permalink: /researches/2DMaterials
 ---
 
-## 🔬 Low-dimensional Materials
-<br/><img src='/images/projects/2DMaterials.png'>
+<br/><img src='/images/projects/2DMaterials.png' width="90%" style="max-width: 800px;">
 
+We explore the fundamental physical properties and novel phenomena in various low-dimensional material systems, spanning from two-dimensional materials to three-dimensional nanostructures. Our research encompasses the investigation of mechanical, thermal, and structural characteristics of these materials through advanced theoretical modeling and computational approaches. We focus on understanding structure-property relationships and tunable material behaviors across different scales and geometries. 
+
+Currently, my representative works in this field include
 
 - ``ASS 2024`` [Tunable wrinkle patterns in Moiré pattern of interlayer-bonding strained bilayer graphene](https://www.sciencedirect.com/science/article/pii/S0169433224005051), Siyu Liu, **Yan Chen**, Guoqian Zhang, Yilun Liu.
 - ``IJTS 2023`` [The dual role of interlayer crosslinks leads to an abnormal behavior of interlayer thermal resistance in multilayer graphene
