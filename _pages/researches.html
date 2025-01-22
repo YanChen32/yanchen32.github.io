@@ -40,12 +40,8 @@ author_profile: true
 {% endfor %}
 
 
-{% for post in site.researches %}
-  {% if post.title == "Research Grants" %}
-    {{ post.content }}
-  {% endif %}
-{% endfor %}
-
+{% assign grants = site.researches | where: "title", "Research Grants" | first %}
+{{ grants.content }}
 
 <style>
 .research-overview {
