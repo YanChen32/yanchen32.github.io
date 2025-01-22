@@ -39,10 +39,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-
-{% assign grants = site.researches | where: "title", "🎯Research Grants" | first %}
-{{ grants.content }}
-
 <style>
 .research-overview {
     max-width: 900px;
