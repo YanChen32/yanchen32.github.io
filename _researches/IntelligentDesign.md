@@ -1,11 +1,13 @@
 ---
-title: "Intelligent Design Platforms for Advanced Materials and Structures"
+title: "🤖 Intelligent Design Platforms for Advanced Materials and Structures"
 permalink: /researches/IntelligentDesign
 ---
 
-## 🤖 Intelligent Design Platforms for Advanced Materials and Structures
-<br/><img src='/images/projects/IntelligentDesign.png'>
+<br/><img src='/images/projects/IntelligentDesign.png' width="90%" style="max-width: 800px;">
 
+We develop cutting-edge artificial intelligence and machine learning platforms for the efficient design and discovery of advanced materials and structures. Our research integrates deep learning architectures, physics-informed neural networks, and active learning strategies to accelerate materials development and optimization. These platforms enable inverse design capabilities, multi-property prediction, and process-structure-property relationship understanding across various material systems. Through innovative computational frameworks, we bridge the gap between materials science and artificial intelligence to enable rapid materials discovery and design. 
+
+Currently, my representative works in this field include：
 
 - [End-to-End Generative Deep Learning for Two-Dimensional Material Morphology Prediction on Arbitrary Topographical Substrate](), Ruimin Zeng, Jianming Cai, **Yan Chen**, Yilun Liu.
 - ``MatterGPT 2024`` [MatterGPT: A Generative Transformer for Multi-Property Inverse Design of Solid-State Materials](https://arxiv.org/abs/2408.07608), **Yan Chen**, Xueru Wang, Xiaobin Deng, Yilun Liu, Xi Chen, Yunwei Zhang, Lei Wang, Hang Xiao
