@@ -1,7 +1,7 @@
 # 🔥 Introduction
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
-👋 Hi, there! I am Yan Chen (陈炎), an Assistant Professor and Master's Supervisor at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). My research focuses on integrating advanced mechanical analysis with artificial intelligence tools to develop innovative solutions for real-world engineering problems. I specialize in multi-scale mechanical analysis - from quantum mechanics (DFT) and molecular dynamics to continuum mechanics and phase-field modeling - to bridge the gap between theoretical research and practical engineering applications.
+👋 Hi, there! I am Yan Chen (陈炎), an Assistant Professor and Master's Supervisor at [Xi'an Jiaotong University] (西安交通大学)(https://www.xjtu.edu.cn/). My research focuses on integrating advanced mechanical analysis with artificial intelligence tools to develop innovative solutions for real-world engineering problems. I specialize in multi-scale mechanical analysis - from quantum mechanics (DFT) and molecular dynamics to continuum mechanics and phase-field modeling - to bridge the gap between theoretical research and practical engineering applications.
 
 **Recent researches:**
 - 🔬 Continuum mechanics modeling of micro/nano composites with microstructural considerations
